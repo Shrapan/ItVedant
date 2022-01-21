@@ -1,0 +1,85 @@
+<!Doctype html>
+<html>
+	 <head>
+		<title>Marksheet</title>
+		<style>
+		table{
+		border:2px double green;
+		}
+		</style>
+	</head>
+	<body>
+		<table border="1"cellspacing="0">
+			<tr>
+				<th colspan="5"><h2>STUDENT MARK SHEET</h2></th>
+			</tr>	
+			<tr>
+				<th colspan="2">Name of Student</th>
+				<th colspan="3">Shrapan</th>
+			</tr>
+			<tr>
+				<th colspan="2">Registration No</th>
+				<th colspan="3">123456</th>
+			</tr>
+			<tr>
+				<th colspan="2">Name of the Program</th>
+				<th colspan="3">Mern Stack</th>
+			</tr>
+			<tr>
+				<th colspan="2">Started</th>
+				<th colspan="3">6-Jan</th>
+			</tr>
+			<tr>
+				<th colspan="2">Grade</th>
+				<th colspan="3">A</th>
+			</tr>
+			
+			
+			
+			
+			<tr>
+				<th>Sr. No.</td>
+				<th>Subject</th>
+				<th>Max Marks </th>
+				<th>Mark Obtained</th>
+				<th>Result/Remark</th>	
+			</tr>
+			
+			<tr>
+				<th>1</td>
+				<td>Web Design Basic</td>
+				<td>100</td>
+				<td>85</td>
+				<td>Pass</td>
+			</tr>
+			<tr>
+				<th>2</td>
+				<td>Sql</td>
+				<td>100</td>
+				<td>81</td>
+				<td>Pass</td>	
+			</tr>
+			<tr>
+				<th>3</td>
+				<td>ReactJs</td>
+				<td>100</td>
+				<td>89</td>
+				<td>Pass</td>
+			</tr>
+			<tr>
+				<th>4</td>
+				<td>Express</td>
+				<td>100</td>
+				<td>90</td>
+				<td>Pass</td>
+			</tr>
+			<tr>
+				<th>5</td>
+				<td>MongoDb</td>
+				<td>100</td>
+				<td>98</td>
+				<td>Pass</td>
+			</tr>
+		</table>
+	</body>
+</html>
